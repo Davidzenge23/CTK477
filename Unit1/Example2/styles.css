@@ -93,7 +93,7 @@ body {
 }
 
 .img-text-wrapper:hover .subtitle {
-  color: lightseagreen;
+  color: white;
   font-weight: 600;
 }
 
@@ -116,5 +116,5 @@ body {
 }
 
 .profile-content-wrapper h1 {
-  color: lightseagreen;
+  color: white;
 }
