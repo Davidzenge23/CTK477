@@ -1,5 +1,6 @@
 
 body{
+  font-family: "Lato", sans-serif;
   margin: 0px;
 
 }
@@ -53,7 +54,7 @@ color: black;
   position: relative;
 }
 
-.birthdayImageBackground{
+.birthdayImageBackground > .subtitle{
   height: 350px;
   width: 100px;
   background-size: center;
@@ -72,4 +73,8 @@ color: black;
   text-align: center;
   padding-left: 100px;
   padding-right: 100px;
+}
+.subtitle {
+  color: white;
+  font-weight: 600;
 }
